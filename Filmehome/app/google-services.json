@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339146553748",
+    "project_id": "filmes-3a639",
+    "storage_bucket": "filmes-3a639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339146553748:android:71db853c03ab9a718d7781",
+        "android_client_info": {
+          "package_name": "com.example.atividadefilmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0YjCWerZSfdEWp5YtzTsonZp8FQqG3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
